@@ -20,7 +20,7 @@ This repository showcases a collection of Python projects demonstrating various 
 
 ### 2. Exploratory Data Analysis (EDA)
 
-* **File:** `Exploratory Data Analysis(EDA).ipynb`
+* **File:** [Exploratory Data Analysis(EDA)](https://github.com/tafafa/Portfolio-Projects-in-Python/blob/main/Exploratory%20Data%20Analysis(EDA).ipynb)
 * **Description:** This Jupyter Notebook presents an in-depth Exploratory Data Analysis of a dataset (likely related to Electric Vehicle Population Data based on the snippets provided). The notebook covers data loading, cleaning, inspection, and visualization to uncover insights and patterns within the data.
 * **Key Libraries Used:**
     * `pandas`: For data manipulation and analysis.
