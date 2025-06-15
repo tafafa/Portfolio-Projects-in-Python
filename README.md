@@ -34,35 +34,6 @@ This repository showcases a collection of Python projects demonstrating various 
     * Analysis of unique values (`.nunique()`) and value counts for key categorical columns (e.g., 'Model', 'Make', 'County', 'City', 'Electric Vehicle Type').
     * Data visualization to illustrate distributions and relationships.
 
-## How to Use
-
-To run these projects locally, follow these steps:
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/tafafa/Portfolio-Project-in-Python.git](https://github.com/YourUsername/Portfolio-Project-in-Python.git)
-    cd Portfolio-Project-in-Python
-    ```
-2.  **Create a virtual environment (recommended):**
-    ```bash
-    python -m venv venv
-    # On Windows:
-    .\venv\Scripts\activate
-    # On macOS/Linux:
-    source venv/bin/activate
-    ```
-3.  **Install the required libraries:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-    *(Note: You will need to create a `requirements.txt` file based on the libraries listed above for each project. For example, `pip freeze > requirements.txt` after installing all dependencies.)*
-
-4.  **Run the Jupyter Notebooks:**
-    ```bash
-    jupyter notebook
-    ```
-    This will open Jupyter in your web browser, where you can navigate to and run the `.ipynb` files.
-
 ## Important Notes for Web Scraping Project
 
 * **Email Configuration:** For the `Web Scrapping in Python.ipynb` notebook, you will need to replace placeholder values for email credentials and potentially adjust SMTP server settings. **Be extremely cautious with your email credentials and never push them directly to a public repository.** Consider using environment variables or a separate configuration file ignored by Git.
