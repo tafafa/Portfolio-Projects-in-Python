@@ -17,7 +17,3 @@ This repository showcases a collection of Python projects demonstrating various 
     * Dynamic web scraping of product details.
     * Price monitoring.
     * Automated email notifications for price drops.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
